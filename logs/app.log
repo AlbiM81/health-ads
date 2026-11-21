@@ -1,0 +1,3 @@
+2026-11-21 13:40:21,231 | INFO | health_score_app | Memulai proses pemuatan model/metadata.
+2026-11-21 13:40:21,240 | INFO | health_score_app | Metadata berhasil dimuat dari model_metadata.json (model=Gradient Boosting (Tuned)).
+2026-11-21 13:40:21,286 | INFO | health_score_app | Model berhasil dimuat dari best_health_predictor.pkl.
